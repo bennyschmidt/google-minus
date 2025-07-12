@@ -49,7 +49,7 @@ _Note: Tap the **Google Minus** app icon instead of the address bar to initiate 
 
 ## Blacklist 
 
-To edit the blacklist, look for this in `index.html`:
+To edit the blacklist, look for this in [`index.js`](https://github.com/bennyschmidt/google-minus/blob/master/index.js):
 
 ```javascript
   const BLACKLIST = [
