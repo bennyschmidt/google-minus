@@ -94,13 +94,18 @@
       </footer>
     </div>
     <script>
+      const BLACKLIST = [
+        'reddit.com',
+        'quora.com'
+      ];
+
       const onClick = () => {
         const {
           value: query
         } = document.getElementById('search-input');
 
         const url =
-          `https://www.google.com/search?q=${encodeURIComponent(`${query} -site:reddit.com -site:quora.com`)}`;
+          `https://www.google.com/search?q=${encodeURIComponent(`${query} -site:${BLACKLIST.join(' -site:')}`)}`;
 
         document.getElementById('search-input').value = '';
 
