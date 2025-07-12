@@ -1,0 +1,10 @@
+{
+  "name": "New Tab",
+  "description": "Use Google Minus as the New Tab page.",
+  "version": "0.1",
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "manifest_version": 3
+}
