@@ -1,2 +1,2 @@
-# google-minus-reddit
-Google Search that excludes Reddit and Quora. 
+# google-minus
+Google Search that excludes Reddit and Quora.
