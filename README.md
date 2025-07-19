@@ -1,7 +1,7 @@
 # google-minus
 Google Search that excludes Reddit and Quora.
 
-<img width="3024" height="1654" alt="Screenshot 2025-07-12 at 9 58 30 AM" src="https://github.com/user-attachments/assets/3b0029fc-338e-4c71-b3d6-8014f7309b66" />
+<img width="3012" height="1706" alt="Screenshot 2025-07-19 at 6 50 11 AM" src="https://github.com/user-attachments/assets/9019cd05-6e2e-4055-a90e-b4c9a5347c31" />
 
 In just 10 lines of JavaScript you can go back to a time when Google was actually good. A time before 2 cancerous websites existed: Reddit and Quora.
 
