@@ -9,8 +9,6 @@ In just 10 lines of JavaScript you can go back to a time when Google was actuall
 
 • [https://google-minus.vercel.app](https://google-minus.vercel.app)
 
-• [https://exactchange.network/apps/google-minus/play](https://exactchange.network/apps/google-minus/play)
-
 -----
 
 ### Chrome (simple)
