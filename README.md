@@ -5,10 +5,6 @@ Google Search that excludes Reddit and Quora.
 
 In just 10 lines of JavaScript you can go back to a time when Google was actually good. A time before 2 cancerous websites existed: Reddit and Quora.
 
-## Mirrors
-
-• [https://google-minus.vercel.app](https://google-minus.vercel.app)
-
 -----
 
 ### Chrome (simple)
